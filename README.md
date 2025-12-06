@@ -113,7 +113,7 @@ Female students slightly outperform males in Reading & Writing
 
 📤 Files Included
 
-Power BI File: student_performance.pbix
+Power BI File: [student_performance.pbix](https://github.com/DK116-star/student-exam-analysis/blob/main/student%20exam%20performance.pbix)
 
 
 
