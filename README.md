@@ -115,8 +115,8 @@ Female students slightly outperform males in Reading & Writing
 
 Power BI File: student_performance.pbix
 
-Cleaned Dataset: cleaned_dataset student_exam.xlsx
 
-Python EDA Notebook: student exam EDA.ipynb
+
+Python EDA Notebook: [student exam EDA.ipynb](https://github.com/DK116-star/student-exam-analysis/blob/main/student%20exam%20EDA.ipynb)
 
 Screenshots of dashboards
